@@ -12,6 +12,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+branches可以帮助你进行一些探索性的试验，比如说做一些还不作为本次发布的内容。
 
 How do the diagrams help you visualize the branch structure?
 
