@@ -8,6 +8,7 @@ stagging area 是一个暂时文件存储区域，这些区域的文件可以被
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+通过git diff 进行比较确认是否进行了合适的修改。可以利用git add 将文件加至staging area. git diff --staged 可以查看stagging are中保存的内容有何更改，以确认是否将合适的内容commit。
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
