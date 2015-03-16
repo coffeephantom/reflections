@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    在windows下可以使用FC命令
+    在Mac和Linux下，可以使用Diff命令
+    Diff 可以比较文本的之间的不同，并列出不同的地方，你可以比较容易的发现前后版本之间的差异。
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	在发生重要修改的时候保存代码并存成一个版本，然后纪录修改的历史，可以根据对应修改的历史查找相应的版本。
+    
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+   手动选择创建一个commit可以使得版本更加明确，自动保存的话，你不知道它在什么时候自动保存，有些可能很小的改动也在自动保存范围内。手动选择创建一个commit还是会有丢失文件的风险，自动保存则会好一些。不用特别担心以外情况。
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	能同时保存多个文件对于代码而言比较方便，因为很多时候，不同文件之间的代码可能有联系。Google Docs因为是自动保存，单独保存会相对方便一些。
+
+How can you use the commands git log and git diff to view the history of files?
+
+    可以使用git log 查看所有commits的ID以及描述，得到你希望查看的版本，git diff后加新ID和旧ID可以看到两个版本之间的具体变化。
+
+How might using version control make you more confident to make changes that could break something?
+
+    使用版本控制可以知道哪些操作可能会导致问题，另外如果实在找不出问题，还可以回滚回去，不同担心破坏东西。
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    管理学习进程、管理代码等。
