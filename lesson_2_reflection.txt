@@ -15,6 +15,7 @@ organized? How would branches help?
 branches可以帮助你进行一些探索性的试验，比如说做一些还不作为本次发布的内容。
 
 How do the diagrams help you visualize the branch structure?
+图表可以帮助理解各分支的commits以及分支之间的联系，也可以帮助理解出现的warning。
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
