@@ -17,8 +17,8 @@ branches可以帮助你进行一些探索性的试验，比如说做一些还不
 How do the diagrams help you visualize the branch structure?
 图表可以帮助理解各分支的commits以及分支之间的联系，也可以帮助理解出现的warning。
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+两个分支进行merge，可以将两个分支的内容合并在一起。通过图表显示可以清楚的显示变化。
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
