@@ -1,2 +1,6 @@
 When would you want to create a remote repository rather than keeping all your work local?
 希望在不同电脑上工作，或者是希望有一个备份的时候，可以创建一个远程的repo。
+
+Why might you want to always pull changes manully rather than having Git automatically stay up-to-date with your remote repository?
+pull可以只拉取某个branch，比如我只希望更改某个branch，但是保持其他东西不变。万一出现错误，还可以保证其他的东西不变，可以更好的进行备份。人工拉取可以只取需要的东西，同时可以防止本地的文件越来越多。
+
