@@ -4,3 +4,6 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manully rather than having Git automatically stay up-to-date with your remote repository?
 pull可以只拉取某个branch，比如我只希望更改某个branch，但是保持其他东西不变。万一出现错误，还可以保证其他的东西不变，可以更好的进行备份。人工拉取可以只取需要的东西，同时可以防止本地的文件越来越多。
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+如果正在浏览github的网站，然后发现有意思的项目，可以顺手fork一下，保存在github账号内，以后需要使用的时候就可以clone下来。然后如果希望进行一下修改，又希望保持原来不变，可以建一个branch。
+
