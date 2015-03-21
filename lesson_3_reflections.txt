@@ -11,3 +11,5 @@ What is the benefit of having a copy of the last known state of the remote store
 与有一个与已知最新远程端的本地版本，可以知道别人是否对这个项目有修改，并且你可以与他人讨论是否保留这样的修改。同时可以更好的理解最新版本，尝试新的修改。
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+可以fork别人的项目，然后clone到本地，然后创建新的分支进行分支，可以通过提交pull request来提交你的更改，然后通过e－mail以及comment和其他人进行交流。可以非常清楚的看到更改。略微有难度的是，你需要掌握git以及github的相关知识，并且需要多加练习。
