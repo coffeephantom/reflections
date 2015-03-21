@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 可以fork别人的项目，然后clone到本地，然后创建新的分支进行分支，可以通过提交pull request来提交你的更改，然后通过e－mail以及comment和其他人进行交流。可以非常清楚的看到更改。略微有难度的是，你需要掌握git以及github的相关知识，并且需要多加练习。
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+在不确定修改对master中的内容有什么影响时，会使用branch。或者希望由不同的角度进行问题的阐述会使用branch。直接master中修改可以立即生效，非常迅速。而在branch中修改更佳稳健，另外使用branch还可以与他人更加有效率的合作。
