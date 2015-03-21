@@ -20,5 +20,5 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 两个分支进行merge，可以将两个分支的内容合并在一起。通过图表显示可以清楚的显示变化。
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+如果git可以自动的进行merge，那么会更加方便，但是一些文件冲突的处理可能会成为问题。而人工进行merge比较费事，但是可以更好的处理文件的冲突，同时在另一层面上也可以加强相互协作人员之间的交流。
