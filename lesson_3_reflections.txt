@@ -7,3 +7,7 @@ pull可以只拉取某个branch，比如我只希望更改某个branch，但是�
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 如果正在浏览github的网站，然后发现有意思的项目，可以顺手fork一下，保存在github账号内，以后需要使用的时候就可以clone下来。然后如果希望进行一下修改，又希望保持原来不变，可以建一个branch。
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+与有一个与已知最新远程端的本地版本，可以知道别人是否对这个项目有修改，并且你可以与他人讨论是否保留这样的修改。同时可以更好的理解最新版本，尝试新的修改。
+
+
