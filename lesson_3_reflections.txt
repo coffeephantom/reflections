@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+希望在不同电脑上工作，或者是希望有一个备份的时候，可以创建一个远程的repo。
